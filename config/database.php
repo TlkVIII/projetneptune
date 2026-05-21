@@ -4,7 +4,7 @@ $host = "mysql.railway.internal";
 $port = "3306";
 $dbname = "railway";
 $user = "root";
-$password = "MqsPOhrkkVjFfmggrKVJPEvMHzXqjsQY";
+$password = "vlWIQWXKxLDhTjZoRXyxVneMSlcWQzJl";
 
 try {
     $pdo = new PDO(
