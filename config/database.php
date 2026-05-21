@@ -1,10 +1,10 @@
 <?php
 
-$host = "mysql.railway.internal";
-$port = "3306";
+$host = "kodama.proxy.rlwy.net";
+$port = "13960";
 $dbname = "railway";
 $user = "root";
-$password = "vlWIQWXKxLDhTjZoRXyxVneMSlcWQzJl";
+$password = "QQsQyJrlsieaGXJeEEdcpHLjorVpwKVT";
 
 try {
     $pdo = new PDO(
