@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once(__DIR__ . '/config/database.php');
+include(__DIR__ . "/../../config/db.php");
 
 // Récupérer les chambres depuis la base de données
 try {
